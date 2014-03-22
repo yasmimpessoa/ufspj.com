@@ -1,0 +1,44 @@
+* { box-sizing: border-box; }
+
+body {    
+    background-color: #091c36;
+}
+
+img {width: 100%}
+
+#wrapper {
+    margin: 0 auto;
+    width: 90%;
+    
+}
+nav, section, footer {
+    background-color: #fff;
+    padding: 10px;
+
+header {
+   
+    
+}
+
+header h1 {
+    line-height: 0;
+    margin-bottom: 0;
+    text-indent: -100000px;
+    
+    
+}
+header img {
+
+nav {
+   margin-top: 10px solid #091c36;
+
+}
+
+section {
+   
+}
+
+footer {
+    
+    
+}
